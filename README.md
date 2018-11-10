@@ -80,5 +80,7 @@ To assemble and print an S-Expression to a string, use something like this:
 
 Copyright 2018 by Alexander Matz
 
-This work is license under Creative Commons (CC BY 4.0).
-More info under: https://creativecommons.org/licenses/by/4.0/
+This work is licensed under
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+For more info, visit: https://creativecommons.org/licenses/by/4.0/
