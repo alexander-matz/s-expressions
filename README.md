@@ -37,7 +37,7 @@ compile or linker flags (except c99 support) are required.
 To build and run the test suite, do:
 ```bash
 $ make
-$ run test_sexp
+$ test_sexp
 ```
 
 The interface and usage is simple. The test cases provide a lot of examples.
